@@ -1,7 +1,34 @@
 /********************
  * YOUR CODE BELOW! *
  ********************/
-
+function 'moreThan5'
+const moreThan5 <10
+function 'isNewTopScore'
+const isNewTopScore>95
+function 'isInDanger'
+const isInDanger>=68
+function 'isCoasting'
+const isCoasting>=72
+function isSucceeding
+const isSucceeding=>84
+function isFailing
+const isFailing=<60
+function isAcing
+const isAcing=>92
+function isStudent
+const isStudent=>'student'
+function isTeacher
+const isTeacher=> 'teacher'
+function isAdmin
+const isAdmin => 'admin'
+function isElementary
+const isElementary=> 'elementary'
+function areDifferentPeople
+const areDifferentPeople=> 'admin teacher'
+function isMiddleSchoolTeacher
+const isMiddleSchoolTeacher=> 6 ===8
+function notAnElementarySchoolAdministrator
+const notAnElementarySchoolAdministrator- 'is not nor an elementary school adminstrator and an expert scuba diver"
 
 
 
